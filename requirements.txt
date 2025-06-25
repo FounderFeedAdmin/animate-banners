@@ -1,0 +1,4 @@
+replicate
+cog
+fal-client
+python-dotenv
